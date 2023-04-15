@@ -1,6 +1,7 @@
 <p align="center">
 </p>
 
+> Modified version of AWS SAM CLI v 1.80.0 that allows concurrent invocations when using sam local and the --warm-containers flag.
 # AWS SAM CLI
 
 ![Apache 2.0 License](https://img.shields.io/github/license/aws/aws-sam-cli)
